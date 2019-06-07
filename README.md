@@ -86,7 +86,7 @@ Teste Automatizado
 <tr>
 	<td>type</td>
 	<td>id=telefone</td>
-	<td>48984253734</td>
+	<td>4899990001</td>
 </tr>
 <tr>
 	<td>type</td>
